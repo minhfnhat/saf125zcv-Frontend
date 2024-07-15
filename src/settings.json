@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover Koi Coffee - Where Every Cup is a Moment of Calm and Flavorful Bliss",
+        "title": "Taste the Serenity of Each Sip"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover Koi Coffee - Where Every Cup is a Moment of Calm and Flavorful Bliss",
+        "title": "Taste the Serenity of Each Sip"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover Koi Coffee - Where Every Cup is a Moment of Calm and Flavorful Bliss",
+        "title": "Taste the Serenity of Each Sip"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover Koi Coffee - Where Every Cup is a Moment of Calm and Flavorful Bliss",
+        "title": "Taste the Serenity of Each Sip"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover Koi Coffee - Where Every Cup is a Moment of Calm and Flavorful Bliss",
+        "title": "Taste the Serenity of Each Sip"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover Koi Coffee - Where Every Cup is a Moment of Calm and Flavorful Bliss",
+        "title": "Taste the Serenity of Each Sip"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover Koi Coffee - Where Every Cup is a Moment of Calm and Flavorful Bliss",
+        "title": "Taste the Serenity of Each Sip"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover Koi Coffee - Where Every Cup is a Moment of Calm and Flavorful Bliss",
+        "title": "Taste the Serenity of Each Sip"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover Koi Coffee - Where Every Cup is a Moment of Calm and Flavorful Bliss",
+        "title": "Taste the Serenity of Each Sip"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Taste the Serenity of Each Sip",
+  "subtitle": "Discover Koi Coffee - Where Every Cup is a Moment of Calm and Flavorful Bliss"
+}
